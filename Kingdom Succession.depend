@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1652831051 source:d:\titipan kuliah kakak\kuliah\polban\tugas\semester-2\struktur data & algoritma\tubes\main.cpp
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"royalTree.h"
+
+1652774293 d:\titipan kuliah kakak\kuliah\polban\tugas\semester-2\struktur data & algoritma\tubes\royaltree.h
+
+1652826291 source:d:\titipan kuliah kakak\kuliah\polban\tugas\semester-2\struktur data & algoritma\tubes\royaltree.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"royalTree.h"
+
